@@ -1,0 +1,65 @@
+{
+    "name": "sikessem/laravel-devtools",
+    "description": "🧪 Sikessem development tools for Laravel applications.",
+    "homepage": "https://packagist.org/packages/sikessem/laravel-devtools",
+    "keywords": [
+        "sikessem",
+        "php",
+        "lint",
+        "test",
+        "testing",
+        "refactor",
+        "pint",
+        "pest",
+        "rector",
+        "psalm",
+        "phpstan",
+        "var-dump",
+        "laravel-devtools",
+        "laravel-tools",
+        "test-tools",
+        "testing-tools",
+        "web-tools",
+        "webtools",
+        "dev",
+    	"laravel"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SIGUI Kessé Emmanuel",
+            "email": "contact@sigui.ci",
+            "homepage": "https://sigui.ci"
+        }
+    ],
+    "support": {
+        "email": "support@sikessem.com",
+        "source": "https://github.com/sikessem/laravel-devtools",
+        "issues": "https://github.com/sikessem/laravel-devtools/issues",
+        "chat": "https://github.com/orgs/sikessem/discussions"
+    },
+    "require": {
+        "php": "^8.1||^8.2",
+        "laravel/sail": "^1.22",
+        "nunomaduro/larastan": "^2.6",
+        "pestphp/pest-plugin-laravel": "^2.0",
+        "sikessem/webtools": "^0.0",
+        "spatie/laravel-ignition": "^2.1"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "0.x-dev"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true,
+            "php-http/discovery": true
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
