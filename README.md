@@ -49,7 +49,7 @@ This library includes all the PHP development and automation tools used by [Sike
 
 ## 🔖 Contents
 
-- [🧪 Sikessem Dev Tools](#-sikessem-devtools-for-laravel)
+- [🧪 Sikessem DevTools for Laravel](#-sikessem-devtools-for-laravel)
   - [🔖 Contents](#-contents)
   - [📋 Requirements](#-requirements)
   - [⚡️ Installation](#️-installation)
@@ -74,7 +74,7 @@ Install [Dev Tools](https://packagist.org/packages/sikessem/laravel-devtools) us
     ```json
     {
         "require" : {
-            "sikessem/laravel-devtools": "^0.0"
+            "sikessem/laravel-devtools": "^0.1"
         }
     }
     ```
