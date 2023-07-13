@@ -74,7 +74,7 @@ Install [Dev Tools](https://packagist.org/packages/sikessem/laravel-devtools) us
     ```json
     {
         "require" : {
-            "sikessem/laravel-devtools": "^0.1"
+            "sikessem/laravel-devtools": "^0.2"
         }
     }
     ```
