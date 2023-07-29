@@ -22,7 +22,10 @@
         "web-tools",
         "webtools",
         "dev",
-    	"laravel"
+    	"laravel",
+        "ray",
+        "dump",
+        "dd"
     ],
     "license": "MIT",
     "authors": [
@@ -49,7 +52,8 @@
         "pestphp/pest-plugin-watch": "^2.0",
         "psalm/plugin-laravel": "^2.8",
         "sikessem/webtools": "^0.0",
-        "spatie/laravel-ignition": "^2.2"
+        "spatie/laravel-ignition": "^2.2",
+        "spatie/laravel-ray": "^1.32"
     },
     "extra": {
         "branch-alias": {
