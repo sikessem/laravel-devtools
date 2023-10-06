@@ -25,7 +25,8 @@
     	"laravel",
         "ray",
         "dump",
-        "dd"
+        "dd",
+        "debugbar"
     ],
     "license": "MIT",
     "authors": [
@@ -43,6 +44,7 @@
     },
     "require": {
         "php": "^8.1||^8.2",
+        "barryvdh/laravel-debugbar": "^3.9",
         "laravel/sail": "^1.25",
         "nunomaduro/larastan": "^2.6",
         "orchestra/testbench": "^8.5",
