@@ -43,7 +43,7 @@
     },
     "require": {
         "php": "^8.1||^8.2",
-        "laravel/sail": "^1.23",
+        "laravel/sail": "^1.25",
         "nunomaduro/larastan": "^2.6",
         "orchestra/testbench": "^8.5",
         "pestphp/pest-plugin-faker": "^2.0",
@@ -51,9 +51,9 @@
         "pestphp/pest-plugin-livewire": "^2.1",
         "pestphp/pest-plugin-watch": "^2.0",
         "psalm/plugin-laravel": "^2.8",
-        "sikessem/webtools": "^0.0",
-        "spatie/laravel-ignition": "^2.2",
-        "spatie/laravel-ray": "^1.32"
+        "sikessem/webtools": "^0.0.0",
+        "spatie/laravel-ignition": "^2.3",
+        "spatie/laravel-ray": "^1.33"
     },
     "extra": {
         "branch-alias": {
