@@ -45,7 +45,7 @@
 
 # 🧪 Sikessem DevTools for Laravel
 
-This library includes all the PHP development and automation tools used by [Sikessem](https://sikessem.com) in [Laravel](https://laravel.com) applications.
+This kit includes all PHP development, testing, debugging and automation tools for Laravel applications.
 
 ## 🔖 Contents
 
@@ -71,13 +71,13 @@ Install [Dev Tools](https://packagist.org/packages/sikessem/laravel-devtools) us
 
 - By adding the `sikessem/laravel-devtools` dependency to your `composer.json` file:
 
-    ```json
-    {
-        "require" : {
-            "sikessem/laravel-devtools": "^0.5"
-        }
+  ```json
+  {
+    "require-dev" : {
+      "sikessem/laravel-devtools": "^0.6"
     }
-    ```
+  }
+  ```
 
 - Or by including the dependency:
 
