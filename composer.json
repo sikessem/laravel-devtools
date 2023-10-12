@@ -3,6 +3,7 @@
     "description": "🧪 Sikessem development tools for Laravel applications.",
     "homepage": "https://packagist.org/packages/sikessem/laravel-devtools",
     "keywords": [
+        "actions",
         "analyze-code",
         "automated-testing",
         "code-analyzer",
@@ -19,6 +20,7 @@
         "dump",
         "fake",
         "faker",
+        "ide-helper",
         "ignition",
         "inspect-code",
     	"laravel",
@@ -67,6 +69,7 @@
     "require": {
         "php": "^8.1||^8.2",
         "barryvdh/laravel-debugbar": "^3.9",
+        "barryvdh/laravel-ide-helper": "^2.13",
         "laravel/sail": "^1.25",
         "nunomaduro/larastan": "^2.6",
         "orchestra/testbench": "^8.13",
@@ -77,7 +80,8 @@
         "psalm/plugin-laravel": "^2.8",
         "sikessem/devtools": "^0.2.0",
         "spatie/laravel-ignition": "^2.3",
-        "spatie/laravel-ray": "^1.33"
+        "spatie/laravel-ray": "^1.33",
+        "wulfheart/laravel-actions-ide-helper": "^0.5.0"
     },
     "extra": {
         "branch-alias": {
