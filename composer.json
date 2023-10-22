@@ -78,7 +78,7 @@
         "pestphp/pest-plugin-livewire": "^2.1",
         "pestphp/pest-plugin-watch": "^2.0",
         "psalm/plugin-laravel": "^2.8",
-        "sikessem/devtools": "^0.2.0",
+        "sikessem/devtools": "^0.4.0",
         "spatie/laravel-ignition": "^2.3",
         "spatie/laravel-ray": "^1.33",
         "wulfheart/laravel-actions-ide-helper": "^0.5.0"
@@ -94,7 +94,8 @@
         "sort-packages": true,
         "allow-plugins": {
             "pestphp/pest-plugin": true,
-            "php-http/discovery": true
+            "php-http/discovery": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
     "minimum-stability": "stable",
