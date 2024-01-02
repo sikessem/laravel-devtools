@@ -70,6 +70,7 @@
         "php": ">=8.2",
         "barryvdh/laravel-debugbar": "^3.9",
         "barryvdh/laravel-ide-helper": "^2.13",
+        "larastan/larastan": "^2.8",
         "laravel/sail": "^1.26",
         "orchestra/testbench": "^8.19",
         "pestphp/pest-plugin-faker": "^2.0",
@@ -98,8 +99,5 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true,
-    "require-dev": {
-        "larastan/larastan": "^2.7"
-    }
+    "prefer-stable": true
 }
