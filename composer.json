@@ -68,20 +68,20 @@
     },
     "require": {
         "php": ">=8.2",
-        "barryvdh/laravel-debugbar": "^3.9",
-        "barryvdh/laravel-ide-helper": "^2.13",
-        "larastan/larastan": "^2.8",
-        "laravel/sail": "^1.26",
-        "orchestra/testbench": "^8.19",
+        "barryvdh/laravel-debugbar": "^3.10",
+        "barryvdh/laravel-ide-helper": "^3.0",
+        "larastan/larastan": "^2.9",
+        "laravel/sail": "^1.29",
+        "orchestra/testbench": "^8.21",
         "pestphp/pest-plugin-faker": "^2.0",
-        "pestphp/pest-plugin-laravel": "^2.2",
+        "pestphp/pest-plugin-laravel": "^2.3",
         "pestphp/pest-plugin-livewire": "^2.1",
-        "pestphp/pest-plugin-watch": "^2.0",
-        "psalm/plugin-laravel": "^2.8",
+        "pestphp/pest-plugin-watch": "^2.1",
+        "psalm/plugin-laravel": "^2.9",
         "sikessem/devtools": "^0.4.0",
-        "spatie/laravel-ignition": "^2.3",
+        "spatie/laravel-ignition": "^2.4",
         "spatie/laravel-ray": "^1.33",
-        "wulfheart/laravel-actions-ide-helper": "^0.6.0"
+        "wulfheart/laravel-actions-ide-helper": "^0.7.0"
     },
     "extra": {
         "branch-alias": {
