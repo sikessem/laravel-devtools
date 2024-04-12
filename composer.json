@@ -55,9 +55,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "SIGUI Kessé Emmanuel",
-            "email": "contact@sigui.ci",
-            "homepage": "https://sigui.ci"
+            "name": "Sigui Kessé Emmanuel",
+            "email": "siguici@proton.me",
+            "homepage": "https://siguici.deno.dev"
         }
     ],
     "support": {
@@ -68,20 +68,20 @@
     },
     "require": {
         "php": ">=8.2",
-        "barryvdh/laravel-debugbar": "^3.10",
+        "barryvdh/laravel-debugbar": "^3.13",
         "barryvdh/laravel-ide-helper": "^3.0",
         "larastan/larastan": "^2.9",
         "laravel/sail": "^1.29",
-        "orchestra/testbench": "^8.21",
+        "orchestra/testbench": "^9.0",
         "pestphp/pest-plugin-faker": "^2.0",
         "pestphp/pest-plugin-laravel": "^2.3",
         "pestphp/pest-plugin-livewire": "^2.1",
         "pestphp/pest-plugin-watch": "^2.1",
-        "psalm/plugin-laravel": "^2.9",
-        "sikessem/devtools": "^0.4.0",
-        "spatie/laravel-ignition": "^2.4",
-        "spatie/laravel-ray": "^1.33",
-        "wulfheart/laravel-actions-ide-helper": "^0.7.0"
+        "psalm/plugin-laravel": "^2.11",
+        "sikessem/devtools": "^0.7.0",
+        "spatie/laravel-ignition": "^2.5",
+        "spatie/laravel-ray": "^1.36",
+        "wulfheart/laravel-actions-ide-helper": "^0.7.2"
     },
     "extra": {
         "branch-alias": {
