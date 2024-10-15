@@ -61,7 +61,6 @@
         }
     ],
     "support": {
-        "email": "support@sikessem.com",
         "source": "https://github.com/sikessem/laravel-devtools",
         "issues": "https://github.com/sikessem/laravel-devtools/issues",
         "chat": "https://github.com/orgs/sikessem/discussions"

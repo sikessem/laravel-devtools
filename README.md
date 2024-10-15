@@ -32,8 +32,8 @@
 [pr-icon]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=brightgreen
 [pr-link]: [contrib-link] "PRs welcome!"
 
-[twitter-icon]: https://img.shields.io/twitter/follow/sikessem_tweets.svg?label=@sikessem_tweets
-[twitter-link]: https://twitter.com/intent/follow?screen_name=sikessem_tweets "Ping Sikessem"
+[twitter-icon]: https://img.shields.io/twitter/follow/sikessem_tweets.svg?label=@SikessemOrg
+[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemOrg "Ping Sikessem"
 
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-link]: https://github.com/sikessem/laravel-devtools/blob/HEAD/LICENSE "Dev Tools License"
@@ -110,7 +110,7 @@ Larger discussions and proposals are discussed in [**sikessem/community**][discu
 
 ## 🔐 Security Reports
 
-If you discover a security vulnerability within [Sikessem](https://sikessem.com), please email [Sigui Kessé Emmanuel](https://siguici.deno.dev) at [siguici@proton.me](mailto:siguici@proton.me). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within [Sikessem][sikessem-link], please email [Sigui Kessé Emmanuel](https://siguici.deno.dev) at [siguici@proton.me](mailto:siguici@proton.me). All security vulnerabilities will be promptly addressed.
 
 ***
 
