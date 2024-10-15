@@ -51,7 +51,7 @@ using [Composer](https://getcomposer.org/):
   ```json
   {
     "require-dev" : {
-      "sikessem/laravel-devtools": "^0.12"
+      "sikessem/laravel-devtools": "^0.13"
     }
   }
   ```
